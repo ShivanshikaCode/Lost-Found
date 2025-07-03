@@ -1,0 +1,33 @@
+*{
+     font-family: 'Segoe UI', sans-serif;
+      background-color: '#efecec';
+      min-height: '100vh';
+}
+body {
+  overflow-x: hidden;
+}
+
+@media (max-width: 480px) {
+  .card {
+    width: 160%;
+     margin: 1rem 15rem 0px 12px !important;
+  }
+
+  .card h2 {
+    font-size: 16px 
+  }
+
+  .card p {
+    font-size: 13px 
+  }
+
+  .report-container {
+    margin: 5rem 1rem 0rem 10rem !important;
+    width: 90% !important;
+   
+  }
+  
+}
+
+  
+
